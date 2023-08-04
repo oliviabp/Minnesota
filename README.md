@@ -1,0 +1,2 @@
+# Minnesota
+Create gihub repo
